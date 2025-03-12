@@ -1,0 +1,13 @@
+{
+  "name": "serverside1", 
+  "version": "1.0.0",
+  "description": "Server for Greenleaf Organics website to handle signup and login",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
